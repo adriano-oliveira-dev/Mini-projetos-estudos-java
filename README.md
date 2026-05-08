@@ -42,7 +42,7 @@ Sistema de console para gerenciar quartos e hóspedes de um hotel.
 **Como executar:**
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/jornada-java.git
+git clone https://github.com/adriano-oliveira-dev/Mini-projetos-estudos-java.git
 
 # Abra o projeto no IntelliJ IDEA
 # Execute a classe Main.java dentro de hotel-sistema/
